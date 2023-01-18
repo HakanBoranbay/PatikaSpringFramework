@@ -1,5 +1,5 @@
 package com.hakanboranbay.utils;
 
 public class PermaLink {
-    //GITHUB : 
+    //GITHUB : https://github.com/HakanBoranbay/PatikaSpringFramework
 }
