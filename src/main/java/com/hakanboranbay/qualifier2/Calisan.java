@@ -1,4 +1,4 @@
-package com.hakanboranbay.qualifier;
+package com.hakanboranbay.qualifier2;
 
 import javax.enterprise.context.ApplicationScoped;
 import javax.inject.Inject;

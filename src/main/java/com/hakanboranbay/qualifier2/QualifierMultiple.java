@@ -1,4 +1,4 @@
-package com.hakanboranbay.qualifier;
+package com.hakanboranbay.qualifier2;
 
 import javax.inject.Qualifier;
 import java.lang.annotation.*;

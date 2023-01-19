@@ -1,4 +1,4 @@
-package com.hakanboranbay.qualifier;
+package com.hakanboranbay.qualifier2;
 
 @QualifierMultiple
 public class Patron2 implements IPatron {

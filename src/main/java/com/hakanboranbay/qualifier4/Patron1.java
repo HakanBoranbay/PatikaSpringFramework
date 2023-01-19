@@ -1,4 +1,4 @@
-package com.hakanboranbay.qualifier;
+package com.hakanboranbay.qualifier4;
 
 import javax.enterprise.inject.Default;
 
