@@ -4,9 +4,17 @@
        xsi:schemaLocation="http://xmlns.jcp.org/xml/ns/javaee http://xmlns.jcp.org/xml/ns/javaee/beans_2_0.xsd"
        bean-discovery-mode="all">
 
+    <!-- alternative-->
     <alternatives>
         <class>com.hakanboranbay.alternative.Patron2</class>
         <!-- <class>com.hakanboranbay.alternative.Patron1</class>-->
     </alternatives>
+
+    <!--interceptor-->
+    <interceptors>
+        <class>
+            com.hakanboranbay.aop.interceptor.InterceptorMainWork
+        </class>
+    </interceptors>
 
 </beans>
